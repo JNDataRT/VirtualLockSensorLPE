@@ -10,8 +10,7 @@ Please read the [Notes](#notes) before using it.
 ## How to Build
 
 1. Clone the repository with `git clone --recursive`.
-2. Build the OffWinLib project from the OffWinLib solution to ensure that dependencies are installed properly.
-3. Build the VirtualLockSensorLPE solution.
+2. Build the VirtualLockSensorLPE solution.
 
 ## How to Use
 
